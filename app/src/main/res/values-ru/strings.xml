@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_msg">Что-то пошло не так. \nПроверьте ваше подключение или сервер. \nОшибка:\n %s</string>
+</resources>

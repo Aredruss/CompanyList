@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Company List</string>
+    <string name="error_msg">Something went wrong. \nCheck your Internet connection or the server. \nError:\n %s</string>
+</resources>
